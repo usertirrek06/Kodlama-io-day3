@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.exe
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.deps.json
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.dll
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\bin\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.dll
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.pdb
+C:\Users\Tarık Buğra\source\repos\CampDay2\ClassMethodDemo\obj\Debug\netcoreapp3.1\ClassMethodDemo.genruntimeconfig.cache
